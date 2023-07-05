@@ -17,15 +17,15 @@
 ## clients include smaller Australian Banks together with a range of diversified financial and other companies
 
 ## Regulatory Risk areas include
-- Money laundering
+- Money-laundering
 - Bribery & Corruption
 - Sanctions
 - Fraud
 
 ## Platforms
--AML Accelerate 
--Risk Assessment Platform
--Health Check
+- [AML Accelerate] - a cloud-based counter-terrorism financing and money-laundering risk assessment platform
+- [Risk Assessment Platform]: a cloud-based platform designed to help businesses identify, assess, mitigate and manage AML compliance, bribery, fraud, cyber and other risk domains.
+- [Health Check]: cloud-based platform designed to help regulated businesses (and their professional advisers) to assess the design and operational effectiveness of compliance programs,
 
 
 
