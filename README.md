@@ -1,27 +1,34 @@
 # Arctic Intelligence
   ## An Australian-based but globally focussed RegTech firm that specialises in audit, risk and compliance software related to financial crime compliance and risk management
+  ## The company was founded in 2015 by Anthony Quinn. He has compliance experience at Macquarie Group, at Westpac in Anti-Money Laundering / Counter Terrorism Financing and the Basel II Accord,
+  ## Email www.arctic-intelligence.com
+  ## ARCTIC stands for Audit, Risk, Compliance, Technology Innovation Company.
 
-## Overview and Origin
+   Seed Round	01-Jul-2018	$2.8M		
+   Angel (individual)	01-Oct-2015	
 
+  ## "Arctic Intelligence was founded with the belief that in order to make an impact on the financial crime problem that it was necessary to combine deep domain expertise with world-class technology to provide regulated entities, regardless of their size, sector or geographic location with the necessary tools to manage audit, risk and compliance programs."
 
-
-# Anthony Quinn is the Founder and CEO of Arctic Intelligence (www.arctic-intelligence.com)
-
-Arctic Intelligence was founded with the belief that in order to make an impact on the financial crime problem that it was necessary to combine 
-deep domain expertise with world-class technology to provide regulated entities, regardless of their size, sector or geographic location with 
-the necessary tools to manage audit, risk and compliance programs.
-
-* How did the idea for the company (or project) come about?
+  ## "Our global solutions are transforming the financial crime risk assessment process, replacing spreadsheets with real-time reporting, and enabling more frequent reviews in response to global regulator expectations and financial crime threats."
 
 * How is the company funded? How much funding have they received?
 
-### ARCTIC stands for Audit, Risk, Compliance, Technology Innovation Company.
 ## Business Activities
+## clients include smaller Australian Banks together with a range of diversified financial and other companies
+
+## Regulatory Risk areas include
+- Money laundering
+- Bribery & Corruption
+- Sanctions
+- Fraud
+
+## Platforms
+-AML Accelerate 
+-Risk Assessment Platform
+-Health Check
 
 
-* What specific financial problem is the company or project trying to solve?
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
 
