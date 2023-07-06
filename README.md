@@ -45,9 +45,6 @@
 - ### Identify and clarify competitive advantages
 - ### Consider a service to new companies to identify areas of regulatory or other risks and plan a strategy.
 - ### Consider the possibility of getting endorsement from the various regulatory authoritie to cope with specific risks.
-
-## Concerns
-- ### Is this really a FINTECH company or merely a marketing ploy. The true value of the various platforms is not evidenced.
  
 ## Notes
   - ### AML stands for Anti-Money Laundering
