@@ -1,5 +1,5 @@
 # Arctic Intelligence
-  ## An Australian-based globally focussed RegTech privasste firm that specialises in audit, risk and compliance software related to financial crime compliance and risk management
+  ## An Australian-based globally focussed RegTech privaste firm that specialises in audit, risk and compliance software related to financial crime compliance and risk management
   ## The company was founded in 2015 by Anthony Quinn. He has compliance experience at Macquarie Group, at Westpac in Anti-Money Laundering / Counter Terrorism Financing and the Basel II Accord,
   ## Email www.arctic-intelligence.com
   ## ARCTIC stands for Audit, Risk, Compliance, Technology Innovation Company.
@@ -33,7 +33,6 @@
 ## Technology
 - ### Details of software platforms are not easily available. However reference is made to Microsoft Azure and SaaS 
 
-
 ## Competitors
 - ### CUBE A RegTech firm founded in 2011 with offices in London, New York and Melbourne. Specialising in Privacy, Cybersecurity, TechnologyRisk, Finamcial Crime and AML
 
@@ -43,6 +42,8 @@
 - ### Be more open as to the technology used and its benefits
 - ### Consider opportunities to 'team' up with other companies in a similar market
 - ### Identify and clarify competitive advantages
+- ### Consider a service to new companies to identify areas of regulatory or other risks and plan a strategy.
+- ### Consider the possibility of getting endorsement from the various regulatory authoritie to cope.
 
 ## Concerns
-- ### Is this really a FINTECH company or merely following fashion
+- ### Is this really a FINTECH company or merely a marketing ploy. The true value of the various platforms is not evidenced.
