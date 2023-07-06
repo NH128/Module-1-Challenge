@@ -31,10 +31,11 @@
 - ### [Health Check] - cloud-based platform designed to help regulated businesses (and their professional advisers) to assess the design and operational effectiveness of compliance programs,
 
 ## Technology
-- ### Details of software platforms are not easily available. However reference is made to Microsoft Azure and SaaS 
+- ### Details of software platforms are not easily available. However reference is made to cloud computing, Microsoft Azure and SaaS 
 
 ## Competitors
-- ### CUBE A RegTech firm founded in 2011 with offices in London, New York and Melbourne. Specialising in Privacy, Cybersecurity, TechnologyRisk, Finamcial Crime and AML
+- ### CUBE (https://www.cube.global/) A RegTech firm founded in 2011 with offices in London, New York and Melbourne. Specialising in Privacy, Cybersecurity, TechnologyRisk, Finamcial Crime and AML
+- ### There are a range of companies in REGTECH but mostly based in the US or UK. It is not clear which are direct competitors. 
 
 ## Recommendations
 - ### Consider opportunities to team up with insurers to seek to mitigate costs associated with regulatory misadventure
@@ -43,7 +44,11 @@
 - ### Consider opportunities to 'team' up with other companies in a similar market
 - ### Identify and clarify competitive advantages
 - ### Consider a service to new companies to identify areas of regulatory or other risks and plan a strategy.
-- ### Consider the possibility of getting endorsement from the various regulatory authoritie to cope.
+- ### Consider the possibility of getting endorsement from the various regulatory authoritie to cope with specific risks.
 
 ## Concerns
 - ### Is this really a FINTECH company or merely a marketing ploy. The true value of the various platforms is not evidenced.
+ 
+## Notes
+  - ### AML stands for Anti-Money Laundering
+  - 
