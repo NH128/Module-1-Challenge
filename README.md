@@ -4,9 +4,9 @@
   ## Email www.arctic-intelligence.com
   ## ARCTIC stands for Audit, Risk, Compliance, Technology Innovation Company.
 
-  >## "Arctic Intelligence was founded with the belief that in order to make an impact on the financial crime problem that it was necessary to combine deep domain expertise with world-class technology to provide regulated entities, regardless of their size, sector or geographic location with the necessary tools to manage audit, risk and compliance programs."
+  >### "Arctic Intelligence was founded with the belief that in order to make an impact on the financial crime problem that it was necessary to combine deep domain expertise with world-class technology to provide regulated entities, regardless of their size, sector or geographic location with the necessary tools to manage audit, risk and compliance programs."
 
-  >## "Our global solutions are transforming the financial crime risk assessment process, replacing spreadsheets with real-time reporting, and enabling more frequent reviews in response to global regulator expectations and financial crime threats."
+  >### "Our global solutions are transforming the financial crime risk assessment process, replacing spreadsheets with real-time reporting, and enabling more frequent reviews in response to global regulator expectations and financial crime threats."
 
 ## Funding
 - ### - 01-Oct-2015 Angel investor for an undisclosed amount
